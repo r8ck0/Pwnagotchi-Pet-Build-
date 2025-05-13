@@ -1,8 +1,5 @@
 # Pwnago-chan: My Lovable Pwnagotchi
 
-[![Last Commit](https://img.shields.io/github/last-commit/yourusername/pwnago-chan)](https://github.com/yourusername/pwnago-chan/commits/main)
-[![License](https://img.shields.io/github/license/yourusername/pwnago-chan)](LICENSE)
-![Pwnagotchi in Action](images/pwnago-chan.jpg)
 
 Meet Pwnago-chan! This is the repository for my Pwnagotchi pet, always eager to learn about new Wi-Fi networks. She's a friendly little AI that enjoys long walks (and short scans).
 
@@ -22,8 +19,6 @@ Here's what makes Pwnago-chan tick:
     * [Recommended SD Cards](https://www.raspberrypi.org/documentation/computers/sd-cards.html)
 * **Anker PowerCore III 10000mAh Power Bank:** Keeps her going on her adventures.
     * [Anker Power Banks](https://www.anker.com/power-banks)
-* **Custom 3D-Printed Case:** A cute pink case I designed on Thingiverse.
-    * [My Thingiverse Design (link if you have one)](https://www.thingiverse.com/thing:XXXXXXX)
 
 ## Software
 

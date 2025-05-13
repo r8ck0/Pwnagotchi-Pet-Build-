@@ -18,7 +18,7 @@ Here's what makes Pwnago-chan tick:
 * **Samsung EVO Plus 32GB MicroSD Card:** Plenty of space for learning.
     * [Recommended SD Cards](https://shop.sandisk.com/products/memory-cards/microsd-cards/sandisk-ultra-uhs-i-microsd?sku=SDSQUNC-016G-AN6MA&ef_id=CjwKCAjwuIbBBhBvEiwAsNypvXVs0ltmlB4B7UfHjZBnGiGSJBJaygWrwlr-vDE3O2vC61R7hMnhXBoCwpIQAvD_BwE:G:s&s_kwcid=AL!15012!3!!!!x!!!21840826498!&utm_medium=pdsh2&utm_source=gads&utm_campaign=Google-B2C-Conversion-Pmax-NA-US-EN-Memory_Card-All-All-Brand&utm_content=&utm_term=SDSQUNC-016G-AN6MA&cp2=&gad_source=1&gad_campaignid=21836907008&gbraid=0AAAAA-HVYqkwkyt6NCMcz9TcEMHqMaQIp&gclid=CjwKCAjwuIbBBhBvEiwAsNypvXVs0ltmlB4B7UfHjZBnGiGSJBJaygWrwlr-vDE3O2vC61R7hMnhXBoCwpIQAvD_BwE)
 * **Anker PowerCore III 10000mAh Power Bank:** Keeps her going on her adventures.
-    * [Anker Power Banks](https://www.anker.com/power-banks)
+    * [Anker Power Banks](https://www.anker.com/products/a1229?variant=37438231806102&utm_source=google&utm_medium=pmax&utm_campaign=us_anker_battery_conversion_pmax_battery_purchase_ost&utm_content=battery&utm_term={16491181900}_{}_{}&gad_source=1&gad_campaignid=16499214131&gbraid=0AAAAADbnO24F9_-EYksisGCKDMEl0xKVk&gclid=CjwKCAjwuIbBBhBvEiwAsNypvbtZ0TlClmKceAGW7rhWt6FOZAW3ZPBkMzelXXu12LsX_8S37fnneBoCFTQQAvD_BwE)
 
 ## Software
 
